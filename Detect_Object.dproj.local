@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/04/06 14:05:22.000.125,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/04/06 14:05:56.000.461,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/04/06 14:06:28.000.296,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/04/06 14:07:31.000.030,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/04/06 14:09:28.000.294,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/04/06 14:16:44.000.990,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/04/06 15:45:32.000.325,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/04/06 17:16:00.000.397,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/04/06 17:16:39.000.795,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/04/12 16:26:08.000.479,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/04/12 16:26:26.000.640,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/04/17 15:53:39.000.830,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/05/04 10:52:37.000.165,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/05/18 20:04:38.000.292,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/05/18 20:22:43.000.062,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/06/22 10:38:36.000.399,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/07/18 08:43:47.000.377,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/08/07 17:13:02.000.725,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/08/21 12:46:04.000.336,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/08/21 12:47:20.000.365,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/08/21 12:47:46.000.792,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Programming\Delphi_Windows\Image_Processing\Detect_Object\UMain.pas</Transaction>
+    <Transaction>2016/08/21 12:47:46.000.792,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Programming\Delphi_Windows\Image_Processing\Detect_Object\UMain.dfm</Transaction>
+    <Transaction>2016/08/21 12:48:00.000.267,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Programming\Delphi_Windows\Image_Processing\Detect_Object\Detect_Object.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
